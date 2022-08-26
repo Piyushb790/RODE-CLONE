@@ -12,9 +12,9 @@
 # Technologies Used
 
 
-<img align="left" alt="HTML5" src="./Assets/icons8-html-5-28.png" /> `HTML` 
+<img align="left" alt="HTML5" src="./assets/icons8-html-5-28.png"> `HTML` 
 
-<img align="left" alt="Tailwind CSS" src="./Assets/icons8-tailwind-css-28.png"> `Tailwind CSS`
+<img align="left" alt="Tailwind CSS" src="./assets/icons8-tailwind-css-28.png"> `Tailwind CSS`
 
  # Deploy Link -> [Rode Clone](https://rode-audio.netlify.app/)
 
@@ -42,12 +42,12 @@
  
 
 # Connect with me
-<img align="left" alt="Github" src="./Assets/icons8-github-28.png">&nbsp; [Github](https://github.com/Piyushb790)
+<img align="left" alt="Github" src="./assets/icons8-github-28.png">&nbsp; [Github](https://github.com/Piyushb790)
 
-<img align="left" alt="Github" src="./Assets/icons8-linkedin-28.png"> &nbsp; [Linkdin](https://www.linkedin.com/in/piyush-bhattit06/)
+<img align="left" alt="Github" src="./assets/icons8-linkedin-28.png"> &nbsp; [Linkdin](https://www.linkedin.com/in/piyush-bhattit06/)
 
-<img align="left" alt="Github" width="28px" src="./Assets/findcoder.svg"> &nbsp; [Fincoder](https://www.findcoder.io/u/piyushbhatt)
+<img align="left" alt="Github" width="28px" src="./assets/findcoder.svg"> &nbsp; [Fincoder](https://www.findcoder.io/u/piyushbhatt)
 
-<img align="left" alt="Github"  src="./Assets/icons8-instagram-28.png"> &nbsp; [Instagram](https://www.instagram.com/piyush_11_11/)
+<img align="left" alt="Github"  src="./assets/icons8-instagram-28.png"> &nbsp; [Instagram](https://www.instagram.com/piyush_11_11/)
 
 
