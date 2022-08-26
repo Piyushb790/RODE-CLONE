@@ -33,7 +33,7 @@
  
 
 # Preview of the Project.
-![Preview](./Assets/preview.png)
+![Preview](./assets/preview.png)
 
  
 
