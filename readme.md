@@ -1,4 +1,4 @@
-# Paytm Clone
+# RODE CLONE
 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-%234FC3F7) ![](https://img.shields.io/badge/HTML-5-%23FF7043) ![](https://img.shields.io/badge/Responsive-Design-%23B2EBF2)
 
